@@ -1,0 +1,60 @@
+Did not end up being as straightforward as I expected
+
+Formatting of the websites was incredibly inconsistent, which meant that I had to write
+something new for basically every school
+
+I also ran into the problem that the computer science professor suspected I would with
+dynamic webpages far more than I thought
+
+What I had to do was launch an automated web browser that loaded all of the dynamic 
+elements of webpages before scraping, there were a lot of timing issues associated with
+that 
+
+some schools that made it very difficult to extract the professor names -- wasn't able
+to do it for UCSD because they had inconsistent formatting on their website
+
+Potential steps forward:
+
+continue to have me add schools
+
+Go through the ones I have and isolate out the tenure track faculty (done for some
+schools automatically)
+
+add gender for professors who come up as unknown, check it for others
+
+My only thing about doing that kind of stuff is that someone with no coding experience
+could do that
+
+Go back to working on the R stuff, cleaning up and finalizing what I already did
+
+If I could get enough data (and I think I should be able to) I could build an ML program
+that classifies face by gender (which I actually don't think would be that hard, it's a pretty standard
+problem
+
+status manually reviewed
+review list
+
+working but less fancy
+
+try/catch
+
+these are the schools, these are the ones that are static and these are dynamic
+
+School name
+number of faculty/% female
+number fo tenure track faculty/percent female
+
+see if there's a map w some curvatrue (rob proj)
+
+non-continuous gradient --> buckets instead fo continuous gradient
+make points slighlty bi9gger
+tryu to make it so that school names appear on the mpoas
+
+URL's offer preferred shortening
+
+also want a ranking by percent female (sep page)
+
+more departments
+
+COuld create isTenured quickly by checking if Associate or assistant are in title
+drop everything that includes 'lecturer'

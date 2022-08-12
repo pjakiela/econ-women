@@ -1,0 +1,28 @@
+This is just a list of notes for a future user of this system.
+
+A few schools have separated their tenure-track and non-tenure-track facutly on their websites,
+namely:
+
+Michigan State
+Duke
+
+So we're not concerned about the titles of Professors at these schools
+
+
+
+Sometimes, schools don't use unique tags for Professor names, so I had to manually
+subset the professor names. This is why you'll see negative indices in some places.
+In these cases, manual adjustments may need to be made to the Professor
+
+
+
+Michigan State displayed the names of its Professors in quite a strange way, hence all of
+the weird functions. Please reach out to jcp4@williams.edu if you need any explanation here.
+
+Not sure what to do about Yale's 'Secondary Faculty' -- I think one or two others
+have this same category
+
+Couldn't get title names for USC, but it shouldn't matter because they all appear to be faculty
+
+
+Issue with UCSD: Inconsistent formatting wrt title -- some in ul and li tags and other in p tags
